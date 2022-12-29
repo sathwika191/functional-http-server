@@ -1,4 +1,4 @@
 function hello(){
-    console.log("Hello world.welcome to web development course");
+    console.log("Hello Node.js");
 }
 hello();
